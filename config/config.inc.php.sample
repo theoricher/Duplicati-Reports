@@ -1,0 +1,12 @@
+<?php
+
+// Database host
+$db_host= "";
+// Database name
+$db_name = "";
+// Database username
+$db_user = "";
+// Database password
+$db_password = "";
+
+?>
