@@ -9,4 +9,7 @@ $db_user = "";
 // Database password
 $db_password = "";
 
+// API Key
+$apikey = "";
+
 ?>
